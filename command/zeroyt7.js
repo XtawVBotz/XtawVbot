@@ -7,7 +7,9 @@ Donate Me For Support
 •via pulsa:085159907432
 */
 
-/* BASE SCRIPT INI BARU JADI DAN MASIH FRESH
+/* BASE SCRIPT INI 𝙈𝘼𝙎𝙄𝙃 𝙏𝘼𝙃𝘼𝙋 𝙋𝙀𝙍𝘾𝙊𝘽𝘼𝘼𝙉
+
+
 
 */
 
