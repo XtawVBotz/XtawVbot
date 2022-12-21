@@ -1,7 +1,3 @@
-<h1 align="center">XtawVbotz <img src="https://user-images.githubusercontent.com/gif" width="400px" alt=""><br></h1>
-<p align="center">
-<img src="https://i.ibb.co/DbfJj4h/20220206-165210.jpg" />
-</p>
 
 <p align="center">
 
