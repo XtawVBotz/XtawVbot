@@ -1,12 +1,12 @@
 {
-"name": "Zero YT7",
+"name": "XtawVBotz",
 "version": "1.0.0",
 "description": "No Description",
 "main": "start.js",
 "scripts": {
 "start": "node start.js"
 },
-"author": "Zero YT7",
+"author": "XtawVBotz",
 "license": "MIT",
 "dependencies": {
 "@adiwajshing/baileys": "^4.4.0",
