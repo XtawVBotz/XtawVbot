@@ -1,28 +1,20 @@
-/* BASE ORI CREATED By Zero YT7
+/* BASE ORI CREATED By XtawVBotz
 Follow Me On All Sosial Media
-• My Youtube : Zero YT7
-• My Instagram : @Zero_YT7
-• My Github : Zero-YT7
+• My Instagram : @minecraftr.159
+• My Github : XtawVBotz
 
 Donate Me For Support
-• https://sociabuzz.com/ZeroYT7/tribe
+•VIA PULSA:085159907432
 */
 
-/* BASE SCRIPT INI BARU JADI DAN MASIH FRESH
-• SIMPLE
-• RAPI
-• KEREN
-JIKA INGIN BELI YG FULL NO ENC / FULL FITUR
-BISA LNGSUNG HUBUNGI SAYA
-NO 1 : 081548926840
-NO 2 : 085157740529
+/* BASE SCRIPT INI 𝙈𝘼𝙎𝙄𝙃 𝙏𝘼𝙃𝘼𝙋 𝙋𝙀𝙍𝘾𝙊𝘽𝘼𝘼𝙉
 */
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 global.mess = {
-success: '*SUKSESS...* Jangan Lupa Subscribe Zero YT7',
+success: '*SUKSESS...* Jangan Lupa follow instagram @minecraftr.159',
 admin: 'Fitur Khusus Admin Group!',
 botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
 owner: 'Fitur Khusus Owner Bot',
