@@ -1,29 +1,21 @@
-/* BASE ORI CREATED By Zero YT7
+/* BASE ORI CREATED By XtawVBotz
 Follow Me On All Sosial Media
-• My Youtube : Zero YT7
-• My Instagram : @Zero_YT7
-• My Github : Zero-YT7
+• My Instagram : @minecraftr.159
+• My Github : XtawVBotz
 
 Donate Me For Support
-• https://sociabuzz.com/ZeroYT7/tribe
+•VIA PULSA:085159907432
 */
 
-/* BASE SCRIPT INI BARU JADI DAN MASIH FRESH
-• SIMPLE
-• RAPI
-• KEREN
-JIKA INGIN BELI YG FULL NO ENC / FULL FITUR
-BISA LNGSUNG HUBUNGI SAYA
-NO 1 : 081548926840
-NO 2 : 085157740529
+/* BASE SCRIPT INI 𝙈𝘼𝙎𝙄𝙃 𝙏𝘼𝙃𝘼𝙋 𝙋𝙀𝙍𝘾𝙊𝘽𝘼𝘼𝙉
 */
 
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ["6281548926840"]
-global.ownerName = 'Zero YT7'
-global.botName = 'Popeye-MD'
+global.owner = ["6285159907432"]
+global.ownerName = 'ftrea'
+global.botName = 'XtawVBotz'
 global.prefa = ['','!','.','🐦','🐤','🗿','/']
 global.sp = '⭔'
 
