@@ -14,7 +14,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.mess = {
-success: '*SUKSESS...* Jangan Lupa follow instagram @minecraftr.159',
+success: '*SUKSESS...* Jangan Lupa follow instagram XtawVBotz ya!',
 admin: 'Fitur Khusus Admin Group!',
 botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
 owner: 'Fitur Khusus Owner Bot',
