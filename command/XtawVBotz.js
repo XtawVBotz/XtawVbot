@@ -96,7 +96,7 @@ var isCmd = body.startsWith(prefix)
 var command = body.replace(prefix, '').trim().split(/ +/).shift().toLowerCase()
 var args = body.trim().split(/ +/).slice(1)
 var pushname = m.pushName || "No Name"
-var botNumber = await XtawVBotz.decodeJid(zeroyt7.user.id)
+var botNumber = await XtawVBotz.decodeJid(XtrawVBotz.user.id)
 var isOwner = [botNumber, ...global.owner].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
 var itsMe = m.sender == botNumber ? true : false
 var text = args.join(' ')
