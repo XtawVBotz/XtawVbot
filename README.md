@@ -40,14 +40,14 @@ pkg install libwebp
 pkg install imagemagick
 pkg install bash
 git clone https://github.com/XtawVBotz/ftres-MD.git
-cd Popeye-MD
+cd ftres-MD
 npm install
 npm start
 ```
 ## For Windows
 ```bash
 git clone https://github.com/XtaVwBotz/ftres-MD.git
-cd Popeye-MD
+cd ftres-MD
 npm install
 npm start
 ```
@@ -60,7 +60,7 @@ apt apt install libwebp
 apt apt install imagemagick
 apt install bash
 git clone https://github.com/XtawVBotz/ftres-MD.git
-cd Popeye-MD
+cd ftres-MD
 npm install
 npm start
 ```
